@@ -1,0 +1,7 @@
+__pycache__/
+*.py[cod]
+*.bin
+*.ipsw
+*.cdr
+ipod-share-backup-*/
+ipod-theme-share-*/

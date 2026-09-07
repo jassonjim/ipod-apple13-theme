@@ -1,0 +1,15 @@
+Copyright (c) 2026, the authors of this package.
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of the original scripts in this directory (the files ending in .py and the
+tests), to use, copy, modify, and distribute those scripts, subject to the
+following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the scripts.
+
+THE SCRIPTS ARE PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND. The license
+covers only original scripts. It does not grant rights to Apple firmware,
+Apple trademarks, the IPSW, a device dump, or the binary delta data in the
+JSON manifest. Those materials remain subject to their respective rights and
+licenses.
